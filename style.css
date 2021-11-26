@@ -1,0 +1,13 @@
+body{
+	background-color: white;
+}
+
+canvas {
+	border: 2px solid black;
+}
+h1 {
+	color: black;
+}
+img {
+	text-align: right;
+}
